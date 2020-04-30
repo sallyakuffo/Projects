@@ -2,7 +2,7 @@
 title:  "Shiny App Project"
 subtitle: "Movie Explorer"
 author: "Sally Akuffo"
-avatar: "img/authors/mesmaller.jpg"
+avatar: "img/author/mesmaller.jpg"
 image: "img/second.1.jpg"
 date:   2020-04-30 5:12:12
 ---
