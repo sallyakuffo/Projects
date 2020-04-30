@@ -2,9 +2,9 @@
 title:  "Amazon Reviews Project"
 subtitle: "Text Analysis"
 author: "Sally Akuffo"
-avatar: "img/authors/mesmaller.png"
+avatar: "img/authors/mesmaller.jpg"
 image: "img/woodtype.jpg"
-date:   2020-04-30 12:12:12
+date:   2020-04-30 2:12:12
 ---
 
 ### Dolor sit amet?
