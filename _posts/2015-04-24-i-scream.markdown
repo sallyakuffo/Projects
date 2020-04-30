@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "About"
+subtitle: "Get to Know me!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
