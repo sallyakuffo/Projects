@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Amazon Reviews Project"
+subtitle: "Text Analysis"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
