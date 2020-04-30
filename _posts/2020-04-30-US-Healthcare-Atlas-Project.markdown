@@ -1,6 +1,6 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "US Healthcare Atlas Project"
+subtitle: "A 360 view of the US Healthcare System"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
