@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Public Health Practicum Project"
+subtitle: "A Spatial Analysis on Determinants and Health Outcomes"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
