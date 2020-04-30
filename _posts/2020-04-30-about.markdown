@@ -2,9 +2,9 @@
 title:  "About"
 subtitle: "Get to know me"
 author: "Sally Akuffo"
-avatar: "img/author/mesmaller.png"
+avatar: "img/author/mesmaller.jpg"
 image: "img/about.jpg"
-date:   2020-04-30 12:12:12
+date:   2020-04-30 1:12:12
 ---
 
 ### Dolor sit amet?
