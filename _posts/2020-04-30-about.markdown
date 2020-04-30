@@ -8,14 +8,27 @@ date:   2020-04-30 1:12:12
 ---
 
 ### Why Data Science?
-I hope to work as a Data Scientist in the Financial sector and in the near future have a positive impact on local financial institutions in Ghana, by helping them make sense of the large amounts of unused data they have and make better business decisions as a result. 
+“Information is the oil of the 21st century, and analytics is the combustion engine”
+–Peter Sondergaard
 
 
-### Brief Experience
+
+### Who am I?
+I am currently an International student at the University of New Hampshire pursuing a master’s degree in Analytics & Data Science and looking forward to graduating in May 2020.
+
+Prior to that, I worked as a Customer Service Representative at CalBank Limited in Ghana (2017-2018), where I worked in the customer service department and sales department. It was a great experience working with the team and it helped improve my communication skills, teamwork and problem-solving skills.
+
+My time in the UNH Analytics & Data Science program has been an eye-opener. I have gained deeper knowledge and the skills necessary to work as a Data Scientist. 
+
 For our summer practicum, my team's project was the US Healthcare Atlas project in which we were tasked to provide a complete view of the current trends in US Healthcare. A descriptive analysis was done using visuals created in Tableau and Python, to analyze high spending and population health outcomes. We concluded that the United States is an outlier in terms of percentage of GDP spending on healthcare while having lower population health outcomes compared to other OECD countries and that increased federal health coverage for vulnerable populations combined with Accountable Care organization policy incentives may offer the best solution to the US healthcare system.
 
-In the Spring, I created a Shiny web app with an interactive map that provides filming locations for some major movies and series that were filmed in parts of Australia. 
+In fall, I created a Shiny web app with an interactive map that provides filming locations for some major movies and series that were filmed in parts of Australia. I have also executed text analysis on Amazon.com reviews using Python.
 
-I am currently working on a team practicum project sponsored by Martin's Point Healthcare and the New Hampshire Department of Health and Human Services, to develop a supply-demand model to increase Provider utilization to 85% and conduct a spatial analysis of health outcomes and Social Determinants on multiple scales, respectively.
+I am currently working on two seperate team practicum projects sponsored by Martin's Point Healthcare and the New Hampshire Department of Health and Human Services, to develop a supply-demand model to increase Provider utilization to 85% and conduct a spatial analysis of health outcomes and Social Determinants on multiple scales, respectively.
 
-My time in the UNH Analytics & Data Science program has been an eye-opener. I have gained deeper knowledge and the skills necessary to work as a Data Scientist. I believe this has opened a door of immense opportunities for me. I am glad I joined this program and had the chance to network with such great faculty, course mates and industry experts. I value the industry speakers who spoke to us and inspired us, the variety of projects we were assigned that always put what we learned in class into a clear perspective and the lifelong connections we made during this program.
+
+
+
+
+
+
