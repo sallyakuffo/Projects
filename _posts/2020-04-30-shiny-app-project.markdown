@@ -1,10 +1,10 @@
 ---
 title:  "Shiny App Project"
 subtitle: "Movie Explorer"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+author: "Sally Akuffo"
+avatar: "img/authors/sallysmall.png"
+image: "img/second.1.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
