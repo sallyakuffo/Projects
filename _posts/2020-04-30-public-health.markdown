@@ -2,9 +2,9 @@
 title:  "Public Health Practicum Project"
 subtitle: "A Spatial Analysis on Determinants and Health Outcomes"
 author: "Sally Akuffo"
-avatar: "img/authors/sallysmall.png"
+avatar: "img/authors/mesmaller.jpg"
 image: "img/sixth.jpg"
-date:   2020-04-30 12:12:12
+date:   2020-04-30 4:12:12
 ---
 
 ### Dolor sit amet?
