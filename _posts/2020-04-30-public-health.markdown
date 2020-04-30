@@ -2,7 +2,7 @@
 title:  "Public Health Practicum Project"
 subtitle: "A Spatial Analysis on Determinants and Health Outcomes"
 author: "Sally Akuffo"
-avatar: "img/authors/mesmaller.jpg"
+avatar: "img/author/mesmaller.jpg"
 image: "img/sixth.jpg"
 date:   2020-04-30 4:12:12
 ---
