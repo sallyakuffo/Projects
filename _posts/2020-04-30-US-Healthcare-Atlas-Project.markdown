@@ -3,8 +3,8 @@ title:  "US Healthcare Atlas Project"
 subtitle: "A 360 view of the US Healthcare System"
 author: "Sally Akuffo"
 avatar: "img/authors/sallysmall.png"
-image: "img/fourth.jpg.png"
-date:   2015-04-22 12:12:12
+image: "img/fourth.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
