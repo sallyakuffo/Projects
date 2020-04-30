@@ -3,7 +3,7 @@ title:  "Amazon Reviews Project"
 subtitle: "Text Analysis"
 author: "Sally Akuffo"
 avatar: "img/authors/sallysmall.png"
-image: "img/third.jpg"
+image: "img/third(2).jpg"
 date:   2020-04-30 12:12:12
 ---
 
