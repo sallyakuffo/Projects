@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Healthcare Practicum Project"
+subtitle: "Provider Capacity Utilization"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
