@@ -3,7 +3,7 @@ title:  "About"
 subtitle: "Get to know me"
 author: "Sally Akuffo"
 avatar: "img/author/sallysmall.png"
-image: "img/sally.jpg"
+image: "img/me.jpg"
 date:   2020-04-30 12:12:12
 ---
 
