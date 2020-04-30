@@ -1,9 +1,9 @@
 ---
 title:  "US Healthcare Atlas Project"
 subtitle: "A 360 view of the US Healthcare System"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
+author: "Sally Akuffo"
+avatar: "img/authors/sallysmall.png"
+image: "img/fourth.jpg.png"
 date:   2015-04-22 12:12:12
 ---
 
