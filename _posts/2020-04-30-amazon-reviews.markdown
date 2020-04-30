@@ -1,10 +1,10 @@
 ---
 title:  "Amazon Reviews Project"
 subtitle: "Text Analysis"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+author: "Sally Akuffo"
+avatar: "img/authors/sallysmall.png"
+image: "img/third.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
