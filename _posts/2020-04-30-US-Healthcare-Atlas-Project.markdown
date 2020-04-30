@@ -2,13 +2,19 @@
 title:  "US Healthcare Atlas Project"
 subtitle: "A 360 view of the US Healthcare System"
 author: "Sally Akuffo"
-avatar: "img/authors/mesmaller.jpg"
+avatar: "img/author/mesmaller.jpg"
 image: "img/fourth.jpg"
 date:   2020-04-30 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Facts about the US Healthcare?
+Health care expenditure in the United States is 17.9% of GDP.
+United States ranks 1st in costs per capita out of the top 35 OECD countries.
+The US ranks 35th out of  OECD countries in terms of health outcomes. 
+10.2% of the United States’ population has no health Insurance.
+1 600,000  Americans filed for bankruptcy in 2018 due to medical costs.
+Only 10%-20% of the health of a population can be attributed to access to medical care.
+
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
