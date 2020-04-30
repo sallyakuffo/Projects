@@ -1,6 +1,6 @@
 ---
-title:  "About"
-subtitle: "Get to Know me!"
+title:  "Shiny App Project"
+subtitle: "Movie Explorer"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
