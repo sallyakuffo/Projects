@@ -2,9 +2,9 @@
 title:  "Shiny App Project"
 subtitle: "Movie Explorer"
 author: "Sally Akuffo"
-avatar: "img/authors/sallysmall.png"
+avatar: "img/authors/mesmaller.jpg"
 image: "img/second.1.jpg"
-date:   2020-04-30 12:12:12
+date:   2020-04-30 5:12:12
 ---
 
 ### Dolor sit amet?
