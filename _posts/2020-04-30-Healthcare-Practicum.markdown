@@ -2,7 +2,7 @@
 title:  "Healthcare Practicum Project"
 subtitle: "Provider Capacity Utilization"
 author: "Sally Akuffo"
-avatar: "img/authors/sallysmall.png"
+avatar: "img/authors/mesmaller.jpg"
 image: "img/fifth.jpg"
 date:   2020-04-30 12:12:12
 ---
