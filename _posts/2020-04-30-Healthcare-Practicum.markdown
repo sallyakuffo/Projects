@@ -1,10 +1,10 @@
 ---
 title:  "Healthcare Practicum Project"
 subtitle: "Provider Capacity Utilization"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+author: "Sally Akuffo"
+avatar: "img/authors/sallysmall.png"
+image: "img/fifth.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
