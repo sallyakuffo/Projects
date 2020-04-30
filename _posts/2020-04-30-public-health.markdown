@@ -1,10 +1,10 @@
 ---
 title:  "Public Health Practicum Project"
 subtitle: "A Spatial Analysis on Determinants and Health Outcomes"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+author: "Sally Akuffo"
+avatar: "img/authors/sallysmall.png"
+image: "img/sixth.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
