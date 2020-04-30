@@ -1,10 +1,10 @@
 ---
 title:  "About"
 subtitle: "Get to know me"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+author: "Sally Akuffo"
+avatar: "img/author/sallysmall.png"
+image: "img/sally.jpg"
+date:   2020-04-30 12:12:12
 ---
 
 ### Dolor sit amet?
