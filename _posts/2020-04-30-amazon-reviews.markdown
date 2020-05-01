@@ -10,11 +10,36 @@ date:   2020-04-30 2:12:12
 ### Dolor sit amet?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Problem Definition
+Amazon.com is the world’s largest online marketplace. It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. For this case analysis, a large dataset was provided with reviews from Amazon’s products by its customers. The goal of this analysis is to gain insights from customer reviews by employing sound Machine Learning techniques. To find out if the reviews written match up with the numerical ratings given. 
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+## Text/ Data collected
+The Amazon reviews data set is a comma separated file(csv) that has 3 columns and 3,000,000 rows. Of the 3 columns, the first column consisted of numerical Ratings from 1 to 5, the second column consisted of short titles of the products that were purchased, and the third column had the written reviews of the consumers of the products. Due to slow processing time a sample of 250,000 rows was initially used  but this had to be further reduced to 30,000 rows of data.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### Analysis Process
+Text Organization
+The Amazon reviews csv file was imported into python as a data frame. The column containing the reviews description was filtered out as a separate data frame then converted into a list.
+To clean up the text a list of stop words were generated to remove frequent words and unnecessary words. Then the text was tokenized to prepare  the text to be converted into a DTM
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### Tokenizing
+The text to be converted into a DTM using the frequency analysis and the weights analysis.
+then it was converted into a DTM using the countvectorizer in Python.
+
+### DTM
+To analyze the text, various machine learning algorithms were applied to the text. I chose to use the frequency DTM  for the rest of the process .The DTM was, first, standardized due to its sparseness to normalize the data. After wards Dimension reduction techniques were applied to the data.
+
+### Dimension reduction
+The Dimension reduction techniques used were PCA, Sparse PCA, t-SNE and UMAP.
+Out of the three I chose to use t SNE because the data set was already large and t-SNE gave the fewest components.
+Classification Modeling
+Next, the t -SNE output was divided into train and test set and was used to run Classification models. The classification models used were KNN, Random Forests, XG Boost, and gradient boosting. The accuracy scores for these models were low ranging between 22% and 26%. Out of all the algorithms XG boost and gradient boosting gave the highest accuracy scores. 
+Sentiment Analysis
+Polarity and sentiment analysis were then performed to compare to the results of the supervised learning algorithms and clusters were created from those.
+
+### Visualization
+Visualization of dimension reduction 
+
+## Insight 
+The visualizations from the classification models compared to the clustering based on sentiment Analysis shows that the sentiment analysis performed better and would be best to train a predictive model based on these clusters. 
+Overall, the clusters were a mixture of all ratings it was not detected that one rating belonged to a specific cluster as a result. We can say that a negative or positive review does not necessarily lead to a certain numerical rating. 
+
