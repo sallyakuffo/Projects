@@ -7,8 +7,10 @@ image: "img/woodtype.jpg"
 date:   2020-04-30 2:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+
+
+
+
 
 ### Problem Definition
 Amazon.com is the world’s largest online marketplace. It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. For this case analysis, a large dataset was provided with reviews from Amazon’s products by its customers. The goal of this analysis is to gain insights from customer reviews by employing sound Machine Learning techniques. To find out if the reviews written match up with the numerical ratings given. 
