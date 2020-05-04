@@ -20,39 +20,39 @@ The United States is a world leader in medical innovation such as robotic surger
 From 2000 to 2010 the US produced half of the worlds new medicines.
 6-12 of the top 20 medical device companies are headquartered in the US.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 US is #2 in the world in pharmaceutical spending($395.6 billion).2.04% of our GDP or 11.96% of total US health care spending.
 Average OECD pharmaceutical spending as a percent of GDP is 1.37%.We would save $130 billion by having average OECD prices.
 In 2017 the US spent $1.14 trillion or 5.86% of GDP on hospitals.Average OECD spending as percent of GDP is 3.33%.
 If US had average OECD hospital cost it would save $492.1 billion.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 Hospital costs have rose consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
 Hospitals have large administrative/non-medical staffs compared to other OECD countries.Other health service providers can be Dentists, Pharmacist, Physiotherapists, Psychologists, Dieticians, Audiologists, Speech therapists, Laboratory assistants, Other health and associate professionals.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 25% of all U.S hospital spending is administrative costs.$285 billion of the total $1.14 trillion.Having Canada’s hospital administrative costs ratio would reduce US costs by $148 billion. 
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 In 2018 the average American living in the Northeast who is on their employer's insurance plan paid $7,172. US insurance premiums are 33% higher than other OECD countries.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 US #2 in uninsured rate.US is one of 3 countries that still have a significant private insurance market.Most OECD countries have had full public health insurance coverage since the 20th century.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 Texas had 17%  uninsured.Massachusetts had the lowest uninsured rate at 3%.Medicaid covers 21% of the total US population.New Mexico had the highest Medicaid rate at 34%. North Dakota and Utah had the lowest at 11%.Medicare covers 14%  of the total US population.West Virginia had the highest Medicare rate at 18%.DC had the lowest at 8%.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 In 2008, federal lobbying expenditure reached $3.3 billion.From 2008 to 2010, federal lobbying expenditure increased to more than $3.47 billion.In 2018, lobbying spending reached $3.4 billion.Pharmaceuticals spent $280 million on lobbying in 2018.The Trump administration continues to push for a drug pricing plan.
 
-<img src="/img/graphs/Breastcancer.png">
+<img src="/img/graphs/Breastcancer2.0.png">
 
 
 
