@@ -65,10 +65,7 @@ layout: compress
                                 <span class="meta__author">{{ post.author }}</span>
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
-                            {{ post.content }}
-                            <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
-                               xlink:href="{{ post.image }}"></image>
-                            {{ post.content }}
+                            {{ post.content | img_url:'100x100' | img_tag}}
                         </div>
                     </div>
                 </div>
