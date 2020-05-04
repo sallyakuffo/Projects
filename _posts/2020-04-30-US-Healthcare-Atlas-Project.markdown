@@ -20,6 +20,8 @@ The United States is a world leader in medical innovation such as robotic surger
 From 2000 to 2010 the US produced half of the worlds new medicines.
 6-12 of the top 20 medical device companies are headquartered in the US.
 
+:grinning:
+
 ![Image](/img/graphs/Breastcancer.png)
 
 US is #2 in the world in pharmaceutical spending($395.6 billion).2.04% of our GDP or 11.96% of total US health care spending.
