@@ -46,10 +46,3 @@ US #2 in uninsured rate.US is one of 3 countries that still have a significant p
 Texas had 17%  uninsured.Massachusetts had the lowest uninsured rate at 3%.Medicaid covers 21% of the total US population.New Mexico had the highest Medicaid rate at 34%. North Dakota and Utah had the lowest at 11%.Medicare covers 14%  of the total US population.West Virginia had the highest Medicare rate at 18%.DC had the lowest at 8%.
 
 In 2008, federal lobbying expenditure reached $3.3 billion.From 2008 to 2010, federal lobbying expenditure increased to more than $3.47 billion.In 2018, lobbying spending reached $3.4 billion.Pharmaceuticals spent $280 million on lobbying in 2018.The Trump administration continues to push for a drug pricing plan.
-
-
-
-
-
-
-
