@@ -22,6 +22,7 @@ The Amazon reviews data set is a comma separated file(csv) that has 3 columns an
 Text Organization
 The Amazon reviews csv file was imported into python as a data frame. The column containing the reviews description was filtered out as a separate data frame then converted into a list.
 To clean up the text a list of stop words were generated to remove frequent words and unnecessary words. Then the text was tokenized to prepare  the text to be converted into a DTM
+<img src="/img/graphs/Breastcancer.png">
 
 ### Tokenizing
 The text to be converted into a DTM using the frequency analysis and the weights analysis.
