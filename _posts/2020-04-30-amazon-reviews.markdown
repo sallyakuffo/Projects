@@ -6,12 +6,6 @@ avatar: "img/author/mesmaller.jpg"
 image: "img/woodtype.jpg"
 date:   2020-04-30 2:12:12
 ---
-
-
-
-
-
-
 ### Problem Definition
 Amazon.com is the world’s largest online marketplace. It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. For this case analysis, a large dataset was provided with reviews from Amazon’s products by its customers. The goal of this analysis is to gain insights from customer reviews by employing sound Machine Learning techniques. To find out if the reviews written match up with the numerical ratings given. 
 
@@ -22,6 +16,7 @@ The Amazon reviews data set is a comma separated file(csv) that has 3 columns an
 Text Organization
 The Amazon reviews csv file was imported into python as a data frame. The column containing the reviews description was filtered out as a separate data frame then converted into a list.
 To clean up the text a list of stop words were generated to remove frequent words and unnecessary words. Then the text was tokenized to prepare  the text to be converted into a DTM
+
 <img src="/img/graphs/Breastcancer.png">
 
 ### Tokenizing
@@ -38,9 +33,6 @@ Classification Modeling
 Next, the t -SNE output was divided into train and test set and was used to run Classification models. The classification models used were KNN, Random Forests, XG Boost, and gradient boosting. The accuracy scores for these models were low ranging between 22% and 26%. Out of all the algorithms XG boost and gradient boosting gave the highest accuracy scores. 
 Sentiment Analysis
 Polarity and sentiment analysis were then performed to compare to the results of the supervised learning algorithms and clusters were created from those.
-
-### Visualization
-Visualization of dimension reduction 
 
 ## Insight 
 The visualizations from the classification models compared to the clustering based on sentiment Analysis shows that the sentiment analysis performed better and would be best to train a predictive model based on these clusters. 
