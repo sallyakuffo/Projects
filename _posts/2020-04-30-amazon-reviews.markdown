@@ -17,10 +17,6 @@ Text Organization
 The Amazon reviews csv file was imported into python as a data frame. The column containing the reviews description was filtered out as a separate data frame then converted into a list.
 To clean up the text a list of stop words were generated to remove frequent words and unnecessary words. Then the text was tokenized to prepare  the text to be converted into a DTM
 
-
-<img src="/img/woodtype.jpg">
-
-
 ### Tokenizing
 The text to be converted into a DTM using the frequency analysis and the weights analysis.
 then it was converted into a DTM using the countvectorizer in Python.
@@ -35,6 +31,12 @@ Classification Modeling
 Next, the t -SNE output was divided into train and test set and was used to run Classification models. The classification models used were KNN, Random Forests, XG Boost, and gradient boosting. The accuracy scores for these models were low ranging between 22% and 26%. Out of all the algorithms XG boost and gradient boosting gave the highest accuracy scores. 
 Sentiment Analysis
 Polarity and sentiment analysis were then performed to compare to the results of the supervised learning algorithms and clusters were created from those.
+
+[![foo](https://live.staticflickr.com/65535/49875679882_2f380afe4f_n.jpg)](https://flic.kr/p/2iZkTZd)
+
+
+## Visualization of Clusters
+[![foo](https://live.staticflickr.com/65535/49875325331_e14c6cf2f1_z.jpg)](https://flic.kr/p/2iZj5Ag)
 
 ## Insight 
 The visualizations from the classification models compared to the clustering based on sentiment Analysis shows that the sentiment analysis performed better and would be best to train a predictive model based on these clusters. 
