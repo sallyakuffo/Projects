@@ -27,6 +27,8 @@ Average OECD pharmaceutical spending as a percent of GDP is 1.37%.We would save 
 In 2017 the US spent $1.14 trillion or 5.86% of GDP on hospitals.Average OECD spending as percent of GDP is 3.33%.
 If US had average OECD hospital cost it would save $492.1 billion.
 
+[![foo](https://live.staticflickr.com/8361/8400335147_5fabaa504c_o.jpg)](https://flic.kr/p/dNiUYB)
+
 Hospital costs have rose consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
 Hospitals have large administrative/non-medical staffs compared to other OECD countries.Other health service providers can be Dentists, Pharmacist, Physiotherapists, Psychologists, Dieticians, Audiologists, Speech therapists, Laboratory assistants, Other health and associate professionals.
 
