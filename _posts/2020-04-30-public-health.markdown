@@ -7,11 +7,11 @@ image: "img/sixth.jpg"
 date:   2020-04-30 4:12:12
 ---
 
-## Project Sponsor: New Hampshire Environmental Public Health Tracking ("NH EPHT")
+###### Project Sponsor: New Hampshire Environmental Public Health Tracking ("NH EPHT")
 
-## Team: David Ramsay, Jordan Myerowitz, Sally Akuffo, Erik Duisberg
+###### Team: David Ramsay, Jordan Myerowitz, Sally Akuffo, Erik Duisberg
 
-## Project Title: Regional Clustering Analysis
+###### Project Title: Regional Clustering Analysis
 
 *Background:* EPHT has responsibility for tracking and maintaining both Social Determinants of Health ("SDoH") and Health Outcomes data throughout the State of New Hampshire in order to better serve the state's citizens and address environmental public health concerns. EPHT's Community Health Outlook reports were developed from scratch in R, and were geared toward providing consistent packages of information to specific communities in NH. With data available at this special resolution, EPHT sees Data Science – and leveraging interrelationships of data and statistics across Communities, Regions and Counties – as a next logical step to help inform their decision-making process with the information and data already available.
 
