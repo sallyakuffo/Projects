@@ -30,7 +30,7 @@ If US had average OECD hospital cost it would save $492.1 billion.
 
 [![foo](https://live.staticflickr.com/65535/49874406113_75e6242381_z.jpg)](https://flic.kr/p/2iZenkF)
 
-Hospital costs have rose consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
+Hospital costs have risen consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
 Hospitals have large administrative/non-medical staffs compared to other OECD countries.Other health service providers can be Dentists, Pharmacist, Physiotherapists, Psychologists, Dieticians, Audiologists, Speech therapists, Laboratory assistants, Other health and associate professionals.
 
 [![foo](https://live.staticflickr.com/65535/49874406113_75e6242381_z.jpg)](https://flic.kr/p/2iZenkF)
