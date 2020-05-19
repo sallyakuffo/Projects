@@ -28,12 +28,10 @@ Average OECD pharmaceutical spending as a percent of GDP is 1.37%.We would save 
 In 2017 the US spent $1.14 trillion or 5.86% of GDP on hospitals.Average OECD spending as percent of GDP is 3.33%.
 If US had average OECD hospital cost it would save $492.1 billion.
 
-[![foo](https://live.staticflickr.com/65535/49874406113_75e6242381_z.jpg)](https://flic.kr/p/2iZenkF)
+[![foo](https://live.staticflickr.com/65535/49911969307_ce0e1b275d_w.jpg)](https://flic.kr/p/2j3xTyX)
 
 Hospital costs have risen consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
 Hospitals have large administrative/non-medical staffs compared to other OECD countries.Other health service providers can be Dentists, Pharmacist, Physiotherapists, Psychologists, Dieticians, Audiologists, Speech therapists, Laboratory assistants, Other health and associate professionals.
-
-[![foo](https://live.staticflickr.com/65535/49911969307_ce0e1b275d_w.jpg)](https://flic.kr/p/2j3xTyX)
 
 25% of all U.S hospital spending is administrative costs.$285 billion of the total $1.14 trillion.Having Canada’s hospital administrative costs ratio would reduce US costs by $148 billion. 
 
