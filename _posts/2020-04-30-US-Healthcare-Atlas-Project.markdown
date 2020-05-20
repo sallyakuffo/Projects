@@ -45,7 +45,7 @@ Texas had 17%  uninsured.Massachusetts had the lowest uninsured rate at 3%.Medic
 
 [![foo](https://live.staticflickr.com/65535/49911948137_381687a084_w.jpg)](https://flic.kr/p/2j3xMgX)
 
-In 2008, federal lobbying expenditure reached $3.3 billion.From 2008 to 2010, federal lobbying expenditure increased to more than $3.47 billion.In 2018, lobbying spending reached $3.4 billion.Pharmaceuticals spent $280 million on lobbying in 2018.The Trump administration continues to push for a drug pricing plan.
+* In 2008, federal lobbying expenditure reached $3.3 billion.From 2008 to 2010, federal lobbying expenditure increased to more than $3.47 billion.In 2018, lobbying spending reached $3.4 billion.Pharmaceuticals spent $280 million on lobbying in 2018.The Trump administration continues to push for a drug pricing plan.
 
 [![foo](https://live.staticflickr.com/65535/49874982846_7f3a99f37c.jpg)](https://flic.kr/p/2iZhjMm)
 
