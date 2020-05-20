@@ -42,16 +42,21 @@ Hospitals have large administrative/non-medical staffs compared to other OECD co
 US #2 in uninsured rate.US is one of 3 countries that still have a significant private insurance market.Most OECD countries have had full public health insurance coverage since the 20th century.
 
 Texas had 17%  uninsured.Massachusetts had the lowest uninsured rate at 3%.Medicaid covers 21% of the total US population.New Mexico had the highest Medicaid rate at 34%. North Dakota and Utah had the lowest at 11%.Medicare covers 14%  of the total US population.West Virginia had the highest Medicare rate at 18%.DC had the lowest at 8%.
+
 [![foo](https://live.staticflickr.com/65535/49911948137_381687a084_w.jpg)](https://flic.kr/p/2j3xMgX)
+
 In 2008, federal lobbying expenditure reached $3.3 billion.From 2008 to 2010, federal lobbying expenditure increased to more than $3.47 billion.In 2018, lobbying spending reached $3.4 billion.Pharmaceuticals spent $280 million on lobbying in 2018.The Trump administration continues to push for a drug pricing plan.
+
 [![foo](https://live.staticflickr.com/65535/49874982846_7f3a99f37c.jpg)](https://flic.kr/p/2iZhjMm)
 
 Our clusters for states in the US. 
+
 [![foo](https://live.staticflickr.com/65535/49914535841_972f126de0_w.jpg)](https://flic.kr/p/2j3M3vx)
 
 [![foo](https://live.staticflickr.com/65535/49914024248_bcc7e8d3d3_w.jpg)](https://flic.kr/p/2j3JqqY)
 
 Our clusters of OECD countries can be found below.
+
 [![foo](https://live.staticflickr.com/65535/49914816497_8a28f2bbd3_w.jpg)](https://flic.kr/p/2j3NtWr)
 
 [![foo](https://live.staticflickr.com/65535/49914007493_6f3d5b76a1_w.jpg)](https://flic.kr/p/2j3Jks6)
