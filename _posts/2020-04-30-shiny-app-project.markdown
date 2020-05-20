@@ -7,8 +7,9 @@ image: "img/second.1.jpg"
 date:   2020-04-30 5:12:12
 ---
 
-This app was created for all the to all the movie lovers out there who would like to take a trip and experience
-the actual locations of movie scenes. The best part of watching a really great TV show or movie is to be transported to all of the fantastic locations the actors and crew get to travel to.Let's take a trip to Australia and discover Port Adelaide.
+The best part of watching a really great TV show or movie is wishing you could be transported to all of the fantastic locations the actors and crew get to travel to.Let's take a trip to Australia and discover Port Adelaide.
+This app was created for all the all the movie lovers out there who would like to take a trip and experience
+the actual locations of movie scenes. 
 
 View the app **[here]( https://sallyakuffo.shinyapps.io/Shiny_Assignment_Sally_Akuffo/)**
 
