@@ -19,8 +19,11 @@ The data used in this project was acquired from a variety of websites. These inc
 From 2000 to 2010 the US produced half of the worlds new medicines.
 6-12 of the top 20 medical device companies are headquartered in the US.
 
+**5 year cancer rates are seen below**
+
 [![foo](https://live.staticflickr.com/8361/49875139427_8eba151ae2_o.png)](https://www.flickr.com/gp/188354765@N02/8j1sY9)
 [![foo](https://live.staticflickr.com/65535/49874911961_db45583693_z.jpg)](https://flic.kr/p/2iZgXHc)
+[![foo](https://live.staticflickr.com/65535/49916520061_3ae1b05942_w.jpg)](https://flic.kr/p/2j3Xdme)
 
 * US is #2 in the world in pharmaceutical spending($395.6 billion).2.04% of our GDP or 11.96% of total US health care spending.
 Average OECD pharmaceutical spending as a percent of GDP is 1.37%.We would save $130 billion by having average OECD prices.
