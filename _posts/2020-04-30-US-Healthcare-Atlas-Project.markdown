@@ -7,6 +7,7 @@ image: "img/fourth.jpg"
 date:   2020-04-30 12:12:12
 ---
 
+#### Team: Erik Knop, Sally Akuffo, Samuel Harris
 
 ### Purpose.
 The purpose of this project was to provide a descriptive analysis and clustering of the trends in the United States Healthcare System.
