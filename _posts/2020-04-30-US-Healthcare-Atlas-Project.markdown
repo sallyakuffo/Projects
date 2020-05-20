@@ -10,7 +10,6 @@ date:   2020-04-30 12:12:12
 
 ### Purpose.
 The purpose of this project was to provide a descriptive analysis and clustering of the trends in the United States Healthcare System.
-[![foo](https://live.staticflickr.com/65535/49911540756_b6678a4a08_w.jpg)](https://flic.kr/p/2j3vGb9)
 
 ### Data.
 The data used in this project was acquired from a variety of websites. These include, the Centre for Disease Control(CDC), the Organisation for Economic Cooperation and Development(OECD),the Centers for Medicaid and Medicare Services(CMS) and the Kaiser Family Foundation(KFF) websites.
@@ -34,7 +33,7 @@ If US had average OECD hospital cost it would save $492.1 billion.
 * Hospital costs have risen consistently since the 1970s.Number of hospitals has decreased.Number of hospital beds have decreased.
 Hospitals have large administrative/non-medical staffs compared to other OECD countries.Other health service providers can be Dentists, Pharmacist, Physiotherapists, Psychologists, Dieticians, Audiologists, Speech therapists, Laboratory assistants, Other health and associate professionals.
 
-        [![foo](https://live.staticflickr.com/65535/49911655551_4afdefc5f2_w.jpg)](https://flic.kr/p/2j3whin)
+[![foo](https://live.staticflickr.com/65535/49911655551_4afdefc5f2_w.jpg)](https://flic.kr/p/2j3whin)
 
 * 25% of all U.S hospital spending is administrative costs.$285 billion of the total $1.14 trillion.Having Canada’s hospital administrative costs ratio would reduce US costs by $148 billion. 
 
