@@ -34,8 +34,7 @@ Polarity and sentiment analysis were then performed to compare to the results of
 
 [![foo](https://live.staticflickr.com/65535/49875679882_2f380afe4f_n.jpg)](https://flic.kr/p/2iZkTZd)
 
-
-
+[![foo](https://live.staticflickr.com/65535/49916259561_46e7ccb159_w.jpg)](https://flic.kr/p/2j3VSUR)
 
 ## Visualization of Clusters
 [![foo](https://live.staticflickr.com/65535/49875325331_e14c6cf2f1_z.jpg)](https://flic.kr/p/2iZj5Ag)
