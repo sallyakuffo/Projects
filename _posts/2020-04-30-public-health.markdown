@@ -7,7 +7,7 @@ image: "img/sixth.jpg"
 date:   2020-04-30 4:12:12
 ---
 
-## Project Sponsor: New Hampshire Environmental Public Health Tracking ("NH EPHT")
+#### Project Sponsor: New Hampshire Environmental Public Health Tracking ("NH EPHT")
 
 ## Team: David Ramsay, Jordan Myerowitz, Sally Akuffo, Erik Duisberg
 
